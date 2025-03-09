@@ -1,8 +1,8 @@
-# FARMER SONIC
+# FARMER VAULT
 
 ## Overview
 
-FARMER SONIC is a DeFi project that allows users to hold FARM tokens and earn SONIC rewards on every trade. The project operates on a simple principle: hold more than 100 FARM tokens and automatically earn $SONIC rewards.
+FARMER VAULT is a DeFi project that allows users to hold FARM tokens and earn SONIC rewards on every trade. The project operates on a simple principle: hold more than 100 FARM tokens and automatically earn $SONIC rewards.
 
 **Website**: [https://farmersonic.xyz/](https://farmersonic.xyz/)  
 **Twitter**: [@FarmerSonic](https://twitter.com/FarmerSonic)
@@ -29,7 +29,7 @@ FARMER SONIC is a DeFi project that allows users to hold FARM tokens and earn SO
 
 ## Smart Contracts
 
-This repository contains the smart contracts for the FARMER SONIC project:
+This repository contains the smart contracts for the FARMER VAULT project:
 
 1. **FARMER.sol**: The main ERC20 token contract with tax, liquidity, and airdrop functionality
 2. **SwapProxy.sol**: Helper contract for handling token swaps and S(eth on contract) transfers
@@ -52,7 +52,7 @@ The FARMER token implements several key mechanisms:
 
 ## Getting Started
 
-To participate in the FARMER SONIC ecosystem:
+To participate in the FARMER VAULT ecosystem:
 
 1. Purchase FARM tokens on the Metropolis DEX
 2. Hold at least 100 FARM tokens in your wallet
