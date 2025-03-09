@@ -4,8 +4,8 @@
 
 FARMER VAULT is a DeFi project that allows users to hold FARM tokens and earn SONIC rewards on every trade. The project operates on a simple principle: hold more than 100 FARM tokens and automatically earn $SONIC rewards.
 
-**Website**: [https://farmersonic.xyz/](https://farmersonic.xyz/)  
-**Twitter**: [@FarmerSonic](https://twitter.com/FarmerSonic)
+**Website**: [https://farmersonic.xyz/](https://farmervault.xyz/)  
+**Twitter**: [@FarmerVault](https://twitter.com/FarmerVault)
 
 ## Key Features
 
